@@ -1,0 +1,44 @@
+{
+  "name": "modern-dark-pro",
+  "displayName": "Modern Dark Pro",
+  "version": "1.0.0",
+  "description": "A modern, clean, and professional VSCode theme with high contrast, elegant design, and excellent readability for extended coding sessions",
+  "publisher": "dvigodev",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "modern",
+    "dark",
+    "professional",
+    "clean",
+    "high contrast",
+    "monokai",
+    "pro"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modern Dark Pro - Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/modern-dark-monokai.json"
+      },
+      {
+        "label": "Modern Dark Pro - Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/modern-dark-night.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvigodev/modern-dark-pro"
+  },
+  "author": "dvigodev",
+  "license": "MIT",
+  "icon": "icon.png"
+}

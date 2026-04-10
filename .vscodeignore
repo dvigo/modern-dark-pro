@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.git/**
+.github/**
+*.vsix
+node_modules/**
+.eslintrc.json
+.DS_Store
+.editorconfig
+DEVELOPMENT.md
+CONTRIBUTING.md
+.gitattributes
