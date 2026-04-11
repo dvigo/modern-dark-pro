@@ -3,7 +3,7 @@
   "displayName": "Modern Dark Pro",
   "version": "1.0.0",
   "description": "A modern, clean, and professional VSCode theme with high contrast, elegant design, and excellent readability for extended coding sessions",
-  "publisher": "dvigodev",
+  "publisher": "dvigo",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dvigodev/modern-dark-pro"
+    "url": "https://github.com/dvigo/modern-dark-pro"
   },
-  "author": "dvigodev",
+  "author": "dvigo",
   "license": "MIT",
   "icon": "icon.png"
 }
