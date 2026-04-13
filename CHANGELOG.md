@@ -2,6 +2,11 @@
 
 All notable changes to the "Modern Dark Pro" extension will be documented in this file.
 
+## [1.0.1] - 2026-04-14
+
+### Changed
+- Improved extension icon with a transparent background and enhanced design.
+
 ## [1.0.0] - 2026-04-10
 
 ### Added
