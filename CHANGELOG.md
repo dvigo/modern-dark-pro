@@ -2,6 +2,11 @@
 
 All notable changes to the "Modern Dark Pro" extension will be documented in this file.
 
+## [1.1.0] - 2026-07-03
+
+### Added
+- New **Dracula Variant** theme inspired by the Dracula palette with vibrant colors and rich dark background.
+
 ## [1.0.1] - 2026-04-14
 
 ### Changed
