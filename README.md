@@ -10,16 +10,18 @@ A professional VSCode theme designed for developers who value elegance, readabil
 
 - **Monokai Variant**: Classic Monokai color scheme with modern refinements
 - **Night Variant**: Sleek dark theme optimized for low-light environments
+- **Dracula Variant**: Vibrant theme inspired by the Dracula palette
 - **Optimized Colors**: Carefully selected color palette for maximum readability and comfort
 - **Comprehensive Syntax Highlighting**: Support for 50+ programming languages
 - **Professional Design**: Contemporary design built for real-world development workflows
 
 ## 🎨 Color Philosophy
 
-Modern Dark Pro features two expertly tuned dark themes:
+Modern Dark Pro features three expertly tuned dark themes:
 
 - **Monokai Variant**: Vibrant accent colors with classic Monokai heritage
 - **Night Variant**: Subtle, sophisticated color palette for extended work sessions
+- **Dracula Variant**: Modern dark aesthetic inspired by the Dracula palette
 
 Key color highlights:
 - **Focus Blue**: `#58a6ff` / `#0969da` - Primary interactive elements
@@ -45,7 +47,7 @@ Key color highlights:
    - **macOS/Linux**: `~/.vscode/extensions/`
    - **Windows**: `%USERPROFILE%\.vscode\extensions\`
 3. Restart VSCode
-4. Go to `Preferences > Color Theme` and select "Modern Dark Pro - Monokai" or "Modern Dark Pro - Night"
+4. Go to `Preferences > Color Theme` and select "Modern Dark Pro - Monokai", "Modern Dark Pro - Night", or "Modern Dark Pro - Dracula"
 
 ### Development Installation
 
@@ -61,6 +63,7 @@ code --install-extension .
 3. Select either:
    - **Modern Dark Pro - Monokai** - Classic Monokai with modern refinements
    - **Modern Dark Pro - Night** - Sleek dark theme for extended sessions
+   - **Modern Dark Pro - Dracula** - Vibrant dark theme inspired by the Dracula palette
 
 ## 🖼️ Screenshots
 

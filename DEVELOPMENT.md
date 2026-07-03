@@ -6,7 +6,8 @@
 modern-dark-pro/
 ├── themes/
 │   ├── modern-dark-monokai.json    # Monokai variant
-│   └── modern-dark-night.json      # Night variant
+│   ├── modern-dark-night.json      # Night variant
+│   └── modern-dark-dracula.json    # Dracula variant
 ├── package.json                    # Extension manifest
 ├── README.md                       # Documentation
 ├── CHANGELOG.md                    # Version history
@@ -38,6 +39,10 @@ Both theme files are in `/themes/`:
    - Optimized for low-light environments
    - Sophisticated, subtle color palette
 
+3. **Dracula Variant** (`modern-dark-dracula.json`):
+   - Vibrant dark theme inspired by the Dracula palette
+   - High readability and eye-catching aesthetics
+
 ### Key Areas to Customize
 
 - **Editor Colors**: Search for `editor.background`, `editor.foreground`
@@ -63,7 +68,7 @@ Both theme files are in `/themes/`:
 3. Activate theme:
    - `Cmd+Shift+P` / `Ctrl+Shift+P`
    - "Preferences: Color Theme"
-   - Select "Modern Dark Pro - Monokai" or "Modern Dark Pro - Night"
+   - Select "Modern Dark Pro - Monokai", "Modern Dark Pro - Night", or "Modern Dark Pro - Dracula"
 
 ### Testing Checklist
 

@@ -43,6 +43,27 @@
 - **Foreground**: `#e0e0e0` - Main text
 - **Comment**: `#666666` - Comments (italic)
 
+## Dracula Variant Colors
+
+### Primary Backgrounds
+- **Editor**: `#282a36` - Main editor background
+- **Sidebar**: `#21222c` - Sidebar background
+- **Panel**: `#282a36` - Bottom panel
+- **Status Bar**: `#191a21` - Status bar
+
+### Accent Colors
+- **Purple (Primary)**: `#bd93f9` - Links, focus, selections, constants
+- **Green**: `#50fa7b` - Success, additions, functions, classes
+- **Yellow**: `#f1fa8c` - Strings, constants
+- **Orange**: `#ffb86c` - Parameters, variable highlighting
+- **Red**: `#ff5555` - Errors, warnings, deletions
+- **Pink**: `#ff79c6` - Keywords, storage types, tags
+- **Cyan**: `#8be9fd` - Special tokens, classes, types, regex
+
+### Text Colors
+- **Foreground**: `#f8f8f2` - Main text
+- **Comment**: `#6272a4` - Comments (italic)
+
 ## Syntax Highlighting
 
 ### Both Themes
