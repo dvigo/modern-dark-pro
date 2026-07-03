@@ -1,7 +1,7 @@
 {
   "name": "modern-dark-pro",
   "displayName": "Modern Dark Pro",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A modern, clean, and professional VSCode theme with high contrast, elegant design, and excellent readability for extended coding sessions",
   "publisher": "dvigo",
   "engines": {
@@ -31,6 +31,11 @@
         "label": "Modern Dark Pro - Night",
         "uiTheme": "vs-dark",
         "path": "./themes/modern-dark-night.json"
+      },
+      {
+        "label": "Modern Dark Pro - Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/modern-dark-dracula.json"
       }
     ]
   },
