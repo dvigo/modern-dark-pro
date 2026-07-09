@@ -2,6 +2,11 @@
 
 All notable changes to the "Modern Dark Pro" extension will be documented in this file.
 
+## [1.1.2] - 2026-07-09
+
+### Changed
+- Replaced the theme logo with a completely new flat, transparent, modern vector M.
+
 ## [1.1.1] - 2026-07-09
 
 ### Added
