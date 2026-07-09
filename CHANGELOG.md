@@ -2,6 +2,11 @@
 
 All notable changes to the "Modern Dark Pro" extension will be documented in this file.
 
+## [1.1.1] - 2026-07-09
+
+### Added
+- Added high-quality screenshots to the README for all theme variants.
+
 ## [1.1.0] - 2026-07-03
 
 ### Added
