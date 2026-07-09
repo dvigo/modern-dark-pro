@@ -2,6 +2,11 @@
 
 All notable changes to the "Modern Dark Pro" extension will be documented in this file.
 
+## [1.1.4] - 2026-07-09
+
+### Changed
+- Replaced the transparent logo with a version that features a solid dark background for better visibility across environments.
+
 ## [1.1.3] - 2026-07-09
 
 ### Changed

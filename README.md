@@ -7,7 +7,7 @@
 
 A professional VSCode theme designed for developers who value elegance, readability, and extended coding sessions. Featuring two carefully crafted dark variants with optimized colors for perfect contrast and minimal eye strain.
 
-![Modern Dark Pro](https://img.shields.io/badge/version-1.1.3-blue.svg)
+![Modern Dark Pro](https://img.shields.io/badge/version-1.1.4-blue.svg)
 ![VSCode](https://img.shields.io/badge/VSCode-%5E1.70.0-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
