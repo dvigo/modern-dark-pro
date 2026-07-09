@@ -67,11 +67,17 @@ code --install-extension .
 
 ## 🖼️ Screenshots
 
-### Dark Theme
-Coming soon...
+### Monokai Variant
+![Modern Dark Pro Monokai (JS)](images/modern-dark-monokai_example_js.png)
+![Modern Dark Pro Monokai (Python)](images/modern-dark-monokai_example_py.png)
 
-### Light Theme  
-Coming soon...
+### Night Variant
+![Modern Dark Pro Night (JS)](images/modern-dark-night_example_js.png)
+![Modern Dark Pro Night (Python)](images/modern-dark-night_example_py.png)
+
+### Dracula Variant
+![Modern Dark Pro Dracula (JS)](images/modern-dark-dracula_example_js.png)
+![Modern Dark Pro Dracula (Python)](images/modern-dark-dracula_example_py.png)
 
 ## 🎯 Recommended Settings
 
