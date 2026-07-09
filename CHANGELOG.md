@@ -2,6 +2,11 @@
 
 All notable changes to the "Modern Dark Pro" extension will be documented in this file.
 
+## [1.1.3] - 2026-07-09
+
+### Changed
+- Synced version number with JetBrains theme release.
+
 ## [1.1.2] - 2026-07-09
 
 ### Changed
